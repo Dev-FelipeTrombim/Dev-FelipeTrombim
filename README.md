@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou a procura de um estágio
 - 🌱 Estudando Python
-- 😄 Pronomes: Ele/Dele
 
 
 
